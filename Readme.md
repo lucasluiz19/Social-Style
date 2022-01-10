@@ -1,1 +1,1 @@
-Esse é um exercício da Rocketseat de uma página social. realizado em html e css
+Esse é um exercício da Rocketseat de uma página social. realizado em html e css.
